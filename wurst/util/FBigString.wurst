@@ -1,4 +1,5 @@
-package BigString
+package FBigString
+
 import ErrorHandling
 
 public constant BIG_SUBSTRING_LEN = 450

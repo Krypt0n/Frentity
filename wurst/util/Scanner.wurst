@@ -1,5 +1,5 @@
 package Scanner
-import BigString
+import FBigString
 
 /*
 *	Seuqentially returns substrings of an input string based on delimiters.

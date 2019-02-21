@@ -1,5 +1,5 @@
 package Encoder
-import BigString
+import FBigString
 import BigNum
 import Execute
 import SeqWorker

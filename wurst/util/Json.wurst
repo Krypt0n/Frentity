@@ -2,7 +2,7 @@ package Json
 import HashMap
 import LinkedList
 import public Scanner
-import public BigString
+import public FBigString
 import LZW
 import initlater JsonParser
 
